@@ -1,0 +1,3 @@
+rootProject.name = 'app4Catalogo'
+
+include ':app'
